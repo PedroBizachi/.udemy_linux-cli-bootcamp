@@ -19,6 +19,7 @@ Farm/
    <br> - R: It printed the Chickens/ and Geese/ folder.
 5. "Move" into the `Chickens` folder.
 6. List out the chickens in the `Chickens` folder. How many are there?
+   <br> - R: There are 6 Chickens in total.
 7. One of the chickens is very very old, which one is it? (which file in the `Chickens` folder has the oldest modification time?) Use a command to figure it out!
 8. In a **single** command, move from the `Chickens` directory to the `Geese` directory. Consult the folder structure written out above if needed.
 9. How many geese (files) are in the `Geese` directory?
