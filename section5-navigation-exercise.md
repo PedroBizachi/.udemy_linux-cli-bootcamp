@@ -16,6 +16,7 @@ Farm/
    <br> - R: It printed the Coop/ and Stable/ folder.
 3. "Move" into the `Coop` folder.
 4. List the contents of the `Coop` folder.
+   <br> - R: It printed the Chickens/ and Geese/ folder.
 5. "Move" into the `Chickens` folder.
 6. List out the chickens in the `Chickens` folder. How many are there?
 7. One of the chickens is very very old, which one is it? (which file in the `Chickens` folder has the oldest modification time?) Use a command to figure it out!
