@@ -26,6 +26,7 @@ Farm/
 9. How many geese (files) are in the `Geese` directory?
    <br> - R: There are 4 Geese in total.
 10. One of the geese is sitting on a golden egg! It's larger than the other geese. Which one is it? (which file in the `Geese` folder is the largest?). Use a command to figure it out!
+    <br> - R: Muffin is the lucky one!.
 11. Navigate to the `Horses` directory. Consult the folder structure written out above, if needed.
 12. How many horses are in the `Horses` directory?
 13. Wait! There is a hidden horse in the `Horses` directory! What is it's name??
