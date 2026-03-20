@@ -36,5 +36,5 @@ Farm/
 
 <aside>
 💡 **Bonus:** List out the contents of the `Horses` directory as a comma separated list.  You'll need to dig into the man pages to find the correct option.  Perhaps search the `ls` man page for "comma"?
-
+<br> - R: I can use `ls -m` to do this!.
 </aside>
