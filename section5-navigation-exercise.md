@@ -32,6 +32,7 @@ Farm/
 12. How many horses are in the `Horses` directory?
     <br> - R: 4 horses.
 13. Wait! There is a hidden horse in the `Horses` directory! What is it's name??
+    <br> - R: Ops, look's like there's another one, sneaky Mr. Troy, 5 in total.
 
 <aside>
 💡 **Bonus:** List out the contents of the `Horses` directory as a comma separated list.  You'll need to dig into the man pages to find the correct option.  Perhaps search the `ls` man page for "comma"?
