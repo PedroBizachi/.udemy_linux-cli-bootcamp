@@ -24,6 +24,7 @@ Farm/
    <br> - R: The files lost the modification date when i unzip the folder. But i think it's Elvis :p.
 8. In a **single** command, move from the `Chickens` directory to the `Geese` directory. Consult the folder structure written out above if needed.
 9. How many geese (files) are in the `Geese` directory?
+   <br> - R: There are 4 Geese in total.
 10. One of the geese is sitting on a golden egg! It's larger than the other geese. Which one is it? (which file in the `Geese` folder is the largest?). Use a command to figure it out!
 11. Navigate to the `Horses` directory. Consult the folder structure written out above, if needed.
 12. How many horses are in the `Horses` directory?
