@@ -21,6 +21,7 @@ Farm/
 6. List out the chickens in the `Chickens` folder. How many are there?
    <br> - R: There are 6 Chickens in total.
 7. One of the chickens is very very old, which one is it? (which file in the `Chickens` folder has the oldest modification time?) Use a command to figure it out!
+   <br> - R: The files lost the modification date when i unzip the folder. But i think it's Elvis :p.
 8. In a **single** command, move from the `Chickens` directory to the `Geese` directory. Consult the folder structure written out above if needed.
 9. How many geese (files) are in the `Geese` directory?
 10. One of the geese is sitting on a golden egg! It's larger than the other geese. Which one is it? (which file in the `Geese` folder is the largest?). Use a command to figure it out!
