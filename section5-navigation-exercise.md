@@ -30,6 +30,7 @@ Farm/
 11. Navigate to the `Horses` directory. Consult the folder structure written out above, if needed.
     <br> - R: I could do this by using the command `../../Stable/Horses/`.
 12. How many horses are in the `Horses` directory?
+    <br> - R: 4 horses.
 13. Wait! There is a hidden horse in the `Horses` directory! What is it's name??
 
 <aside>
