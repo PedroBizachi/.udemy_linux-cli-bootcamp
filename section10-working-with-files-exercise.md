@@ -10,9 +10,13 @@ Once you have downloaded the above zip file, unzip it! It contains two files: `p
   - R: I can use `cat -n poem.txt` to print the entire contents of the poem with line numbers, it printed 132 lines.
 - That is a headache to read all at once! Read poem.txt using `less` instead.
   - Scroll down one line at a time
+    - R: With `down arrow`
   - Scroll up one line at a time
+    - R: With `up arrow`
   - Scroll down one "page" at a time
+    - R: With `f` key.
   - Scroll up one "page" at a time
+    - R: With `b` key.
 - Search within less for the term "Dog". Can you find the line that contains it?
   - **BONUS:** can you run a case-insesitive search? The poem contains both "dog" and "Dog" on separate lines.
 - Now it's time to do some research! Find the option to tell less to open with lines numbers displayed. Open `poem.txt` this way
