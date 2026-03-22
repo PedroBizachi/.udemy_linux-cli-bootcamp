@@ -21,6 +21,7 @@ Once you have downloaded the above zip file, unzip it! It contains two files: `p
   - **BONUS:** can you run a case-insesitive search? The poem contains both "dog" and "Dog" on separate lines.
     - R: I can use the command `less -i poem.txt`. That option will ignore case when doing searches on the file, so i can run the command `/dog` and find both "dog" and "Dog".
 - Now it's time to do some research! Find the option to tell less to open with lines numbers displayed. Open `poem.txt` this way
+  - R: Using the option `-N` i can see the lines numbers being displayed.
 - Then find the "command" you can type into less to go to exactly 50% of the way through the file.
 - Use a command to find the number of **words** in `poem.txt`
 - Run a command to print out the first 4 lines of `poem.txt`
