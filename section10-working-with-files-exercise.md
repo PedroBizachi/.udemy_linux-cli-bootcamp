@@ -36,5 +36,6 @@ Once you have downloaded the above zip file, unzip it! It contains two files: `p
 - Run a command to print out the lines in `purchases.txt` in reverse order (last line printed first)
   - R: Using the command `tac` i can print the file in the reverse order.
 - Run a command to print out the lines in `purchases.txt`, sorted alphabetically.
+  - R: I can do that with the `sort` command and the `-d` option.
 - Run a command to count the number of **lines** in `purchases.txt`
 - Run a command to print out the lines in `purchases.txt`, sorted by the price (the final column) in the dataset in REVERSE order (highest price to lowest price)
