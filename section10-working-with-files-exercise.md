@@ -7,6 +7,7 @@ Once you have downloaded the above zip file, unzip it! It contains two files: `p
 ## Part 1
 
 - Use a command to print out the entire contents of the `poem.txt` file. Use an option so that the output also includes line numbers.
+  - R: I can use `cat -n poem.txt` to print the entire contents of the poem with line numbers, it printed 132 lines.
 - That is a headache to read all at once! Read poem.txt using `less` instead.
   - Scroll down one line at a time
   - Scroll up one line at a time
