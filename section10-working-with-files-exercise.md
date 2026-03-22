@@ -38,4 +38,5 @@ Once you have downloaded the above zip file, unzip it! It contains two files: `p
 - Run a command to print out the lines in `purchases.txt`, sorted alphabetically.
   - R: I can do that with the `sort` command and the `-d` option.
 - Run a command to count the number of **lines** in `purchases.txt`
+  - R: I can use `wc --lines purchases.txt` to find 7 lines in that file.
 - Run a command to print out the lines in `purchases.txt`, sorted by the price (the final column) in the dataset in REVERSE order (highest price to lowest price)
