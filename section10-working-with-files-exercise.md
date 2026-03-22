@@ -27,6 +27,7 @@ Once you have downloaded the above zip file, unzip it! It contains two files: `p
 - Use a command to find the number of **words** in `poem.txt`
   - R: I can use `wc --words poem.txt` to find 839 words in that file.
 - Run a command to print out the first 4 lines of `poem.txt`
+  - R: Using `cat -n poem.txt | head -4` i can see the first 4 lines of the file.
 - Run a command to print out the last 8 lines of `poem.txt`
 
 ## Part 2
