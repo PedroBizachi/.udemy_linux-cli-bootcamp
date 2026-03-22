@@ -23,6 +23,7 @@ Once you have downloaded the above zip file, unzip it! It contains two files: `p
 - Now it's time to do some research! Find the option to tell less to open with lines numbers displayed. Open `poem.txt` this way
   - R: Using the option `-N` i can see the lines numbers being displayed.
 - Then find the "command" you can type into less to go to exactly 50% of the way through the file.
+  - R: I can just type `:50%` to go half way through the file.
 - Use a command to find the number of **words** in `poem.txt`
 - Run a command to print out the first 4 lines of `poem.txt`
 - Run a command to print out the last 8 lines of `poem.txt`
