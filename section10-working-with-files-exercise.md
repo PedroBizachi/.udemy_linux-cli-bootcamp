@@ -25,6 +25,7 @@ Once you have downloaded the above zip file, unzip it! It contains two files: `p
 - Then find the "command" you can type into less to go to exactly 50% of the way through the file.
   - R: I can just type `:50%` to go half way through the file.
 - Use a command to find the number of **words** in `poem.txt`
+  - R: I can use `wc --words poem.txt` to find 839 words in that file.
 - Run a command to print out the first 4 lines of `poem.txt`
 - Run a command to print out the last 8 lines of `poem.txt`
 
