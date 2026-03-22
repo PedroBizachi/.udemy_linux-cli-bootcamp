@@ -29,6 +29,7 @@ Once you have downloaded the above zip file, unzip it! It contains two files: `p
 - Run a command to print out the first 4 lines of `poem.txt`
   - R: Using `cat -n poem.txt | head -4` i can see the first 4 lines of the file.
 - Run a command to print out the last 8 lines of `poem.txt`
+  - R: Using `cat -n poem.txt | tail -8` i can see the last 8 lines of the file.
 
 ## Part 2
 
