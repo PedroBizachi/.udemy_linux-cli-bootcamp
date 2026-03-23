@@ -14,8 +14,9 @@ Welcome detective! The `Cases` folder contains a couple thousands case files, bo
    1. I can use the command `find . -name '*closed*' | wc -l
 ` to count all the 980 closed files.
 2. Oh no, one of our new detectives labels his cases using "CLOSED" in all caps. Find the 3 cases that have "CLOSED" in their name.
-   1. I can use the command `find . -name '_CLOSED_' | wc -l
+   1. I can use the command `find . -name '*CLOSED*' | wc -l` to count all the 3 CLOSED files.
 3. Get a total count of all closed cases that include "closed" in their name, uppercase or lowercase. You should get a count of 983!
+   1. I can use the command `find . -iname '*closed*' | wc -l` to count all the 983 closed files.
 4. Get a count for the total number of **open** cases with odd numbered case numbers (find the open cases that have a 1,3,5,7, or 9 as the last digit in their case number). You should get 519 cases.
 5. Find the three empty cases
 6. Most of these files are quite small, but there are 3 pretty large case files. Find the three files that are larger than 20k in size
