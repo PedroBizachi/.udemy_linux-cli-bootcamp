@@ -20,6 +20,7 @@ PokemonExercise/
 Complete the following challenges using the starter files. Make sure that you navigate to the `PokemonExercise/` directory, **but do NOT run any of the following commands from inside the `PokeDex/`** folder. I repeat: any files that you create for the exercise should live inside of `PokemonExercise/` NOT `PokeDex/`
 
 - Count the number of Pokemon files in the `PokeDex/` folder. You'll need to combine commands to make this work!
+  - R: I can simply run `ls PokeDex/` and pipe the results to `wc -l`, so the final command will look like this `ls PokeDex/ | wc -l` and will give me the result of 720 Pokemon.
 - Next, create a new single file called `all-pokemon.txt` in the `PokemonExercise` folder (NOT the `PokeDex` folder)that contains the LOWERCASED name of every single Pokemon file in the directory, sorted in numerical order! The end result should look like this:
 
 ```bash
