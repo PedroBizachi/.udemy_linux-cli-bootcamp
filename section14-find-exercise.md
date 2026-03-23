@@ -25,4 +25,5 @@ Welcome detective! The `Cases` folder contains a couple thousands case files, bo
 6. Most of these files are quite small, but there are 3 pretty large case files. Find the three files that are larger than 20k in size
    1. It's the cases 1503, 1647 and 1995. I could find the with `find . -size +20k`.
 7. Find the one case file that is larger than 150k and is closed
+   1. I already could find him in the last exercise, it's the case 1503, i can be sure on that running the command `find . -size +150k`
 8. No one has touched these case files in years, or at least no one should have touched these files, but sadly some corrupt detective recently tampered with one of the files. Sometime today he changed a single case from "closed" to "open" to spite an enemy of his. Find the one case that has been modified more recently than the `yesterday.txt` file. Watch the exercise intro video if you're confused! You may need to read the man pages to find the correct command.
