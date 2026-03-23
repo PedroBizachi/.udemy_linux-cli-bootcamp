@@ -54,6 +54,8 @@ Year/
 		House/
 ```
 
+1.  I've used the command `mkdir --parents Year/{Winter,Spring,Summer,Fall}/{Yard,House}` to complete this task.
+
 - Finally, in each of the `Yard/` and `House/` Directories create a `todos.txt` file and a `done.txt` file. Do this with a single line, without changing directories! Use expansion! The resulting folder/file structure should look like this:
 
 ```bash
@@ -87,3 +89,5 @@ Year/
 			todos.txt
 			done.txt
 ```
+
+1.  I've used the command `touch Year/{Winter,Spring,Summer,Fall}/{Yard,House}/{todos,done}.txt` to complete this task.
