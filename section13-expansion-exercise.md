@@ -3,21 +3,23 @@
 ## Part 1 - Making Some Files
 
 1. Create the following 60 files **using a single command** with the powers of expansion!
+   1. I've used the command `touch {morning,afternoon}-day-{1..30}` to complete this task.
 
-   ```bash
+```bash
 
-   morning-day-1
-   morning-day-2
-   ...
-   morning-day-30
+morning-day-1
+morning-day-2
+...
+morning-day-30
 
-   afternoon-day-1
-   afternoon-day-2
-   ...
-   afternoon-day-30
-   ```
+afternoon-day-1
+afternoon-day-2
+...
+afternoon-day-30
+```
 
 2. For this next bit, you'll need to use the following command: `date +"%m-%d-%y"` This command will print out the current date using the format _month-day-year_, like **09-19-21**. Use this command to create a new file with the name **_todos-DATE.txt_**, where DATE is the output of the above date command. For example, if we ran the command on September 19th 2021, the resulting file would be named `todos-09-19-21.txt`.
+   1. I've used the command ``touch todos-`date +"%m-%d-%y"`.txt`` to complete this task.
 
 ## Part 2
 
