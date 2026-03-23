@@ -26,9 +26,13 @@ afternoon-day-30
 Using the files that we created in the previous section...
 
 - List out all the files that end with the number `9`
+  1.  I've used the command `ls *9` to complete this task.
 - List out all the filenames where the second to last character is `1`
+  1.  I've used the command `ls *1?` to complete this task.
 - List out all the files that start with afternoon and then end with the number `7`
+  1.  I've used the command `ls afternoon*7` to complete this task.
 - Make a new folder called `Mornings`, and move all the files that start with `morning` inside of it.
+  1.  I've used the command `mv morning* Mornings/` to complete this task.
 
 ## Part 3
 
