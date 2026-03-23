@@ -41,6 +41,7 @@ Complete the following challenges using the starter files. Make sure that you na
 ```
 
 - Now that we have this file that includes all the Pokemon in numerical order, let's print out the three pigeon-related Pokemon: pidgey, pidgeotto, and pidgeot. Using the command-line, print out lines 16-18. It should look like this:
+  - R: Simply done using `head` and `tail` commands. The final command should look like `cat all-pokemon.txt | head -18 | tail -3`.
 
 ```bash
 16pidgey
