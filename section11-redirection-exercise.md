@@ -20,3 +20,4 @@ You are taking part in a wildlife survey in a remote portion of the Peruvian Ama
    2. Then append the text "Green Anaconda" to the end of `sorted-animals.txt`
       1. R: I've used the command `echo "Green anaconda" >> sorted-animals.txt` to do that.
 4. Run the non-existent command `ughhh` and redirect any error messages so that they are **appended** to the sorted-animals.txt file.
+   1. R: I can redirect the stderr using `2` before redirecting `>` or appending `>>`. So in this case, the command i should run to accomplish the task is `ughhh 2>> sorted-animals.txt`.
