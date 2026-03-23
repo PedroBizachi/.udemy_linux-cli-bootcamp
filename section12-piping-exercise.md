@@ -54,6 +54,7 @@ Complete the following challenges using the starter files. Make sure that you na
   - remove all digits 0-9 from the lines (using `tr` )
   - sort the now number-less lines alphabetically
   - store the new result in a file called `original-151.txt` in `PokemonExercise`
+
   ```bash
   abra
   aerodactyl
@@ -63,3 +64,5 @@ Complete the following challenges using the starter files. Make sure that you na
   zapdos
   zubat
   ```
+
+  - R: The final command should look like `cat all-pokemon.txt | head -151 | tr --delete 0-9 | sort -d > original-151.txt`.
