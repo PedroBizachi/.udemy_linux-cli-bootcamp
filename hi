@@ -1,0 +1,7 @@
+#!/bin/bash
+
+#my first script
+
+echo "hello there, $USER"
+echo "Today is `date`"
+echo "Last ran hi at `date`" >> hi.log
